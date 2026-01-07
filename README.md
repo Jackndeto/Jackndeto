@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst Ardent in helping businesses make sense of their data. I focus in transforming raw data into actionable business insights and designing interactive dashboards that drive decision-making.I am passionate in using data  to solve real-word problems and improve user experience at scale .I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analyst Ardent in helping businesses make sense of their data. I focus on transforming raw data into actionable business insights and designing interactive dashboards that drive decision-making.I am passionate in using data  to solve real-word problems and improve user experience at scale .I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 When I'm not working with data, I enjoy Hiking and nature walks. I love the "aha!" moment when data reveals something new and useful.
 
